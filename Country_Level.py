@@ -163,7 +163,7 @@ def country_level_model():
 
 
     st.title("IM Feasibility Calculator: by Country")
-    st.write("This dashboards displays the predictions of the country-level IM feasibility model. The model uses continential region, internet census (population of the country that uses the internet), count of unique marketplace respondents, and count of completed marketplace sessions to predict the average impressions per exposed complete or average total complates for each country. The model is trained on data from currently-supported countries, and then predictions are calculated for new countries based on the model features.")
+    st.write("This dashboards displays the predictions of the country-level IM feasibility model. The model uses continential region, internet census (population of the country that uses the internet), count of unique marketplace respondents, and count of completed marketplace sessions to predict the average impressions per exposed complete or average total complates for each country. The model is trained on data from currently-supported countries, and then predictions are calculated for new countries based on the model features. Use the drop-down menu in the sidebar to select the country you would like to produce predictions for.")
 
     st.write("#### Predicted Average Impressions per Exposed Complete")
     st.dataframe(final_impressions, hide_index=True)
