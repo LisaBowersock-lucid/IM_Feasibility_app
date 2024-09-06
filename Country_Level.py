@@ -12,17 +12,16 @@ st.logo("logo.png")
 def country_level_model():
     name = st.sidebar.selectbox(
         "Country-Language",
-        ('Arabic - Saudi Arabia','Arabic - United Arab Emirates','Chinese Simplified - China','Chinese Traditional - Hong Kong',
-         'Chinese Traditional - Taiwan','Czech - Czech Republic','Dutch - Belgium','Dutch - Netherlands','English - Australia','English - Canada','English - India',
-         'English - Indonesia','English - Ireland','English - Kenya','English - Malaysia','English - New Zealand','English - Pakistan','English - Philippines',
-         'English - Singapore','English - South Africa','English - United Arab Emirates','English - United Kingdom','English - United States','Finnish - Finland',
-         'French - Belgium','French - Canada','French - France','German - Austria','German - Germany','Greek - Greece','Hindi - India','Hungarian - Hungary',
-         'Indonesian - Indonesia','Italian - Italy','Japanese - Japan','Korean - Korea','Malay - Malaysia','Polish - Poland','Portuguese - Brazil',
-         'Portuguese - Portugal','Romanian - Romania','Russian - Russia','Spanish - Argentina','Spanish - Chile','Spanish - Colombia','Spanish - Ecuador','Spanish - Mexico',
+        ('Arabic - Saudi Arabia','Arabic - United Arab Emirates','Bulgarian - Bulgaria','Chinese Simplified - China','Chinese Traditional - Hong Kong',
+         'Chinese Traditional - Taiwan','Croatian - Croatia','Czech - Czech Republic','Dutch - Belgium','Dutch - Netherlands','English - Australia','English - Canada','English - Hong Kong','English - India',
+         'English - Indonesia','English - Ireland','English - Malaysia','English - New Zealand','English - Pakistan','English - Philippines',
+         'English - Singapore','English - United Arab Emirates','English - United Kingdom','English - United States','Estonian - Estonia','Finnish - Finland',
+         'French - Belgium','French - Canada','French - France','French - Switzerland','German - Austria','German - Germany','German - Switzerland','Greek - Greece','Hindi - India','Hungarian - Hungary',
+         'Indonesian - Indonesia','Italian - Italy','Japanese - Japan','Korean - Korea','Latvian - Latvia','Lithuanian - Lithuania','Malay - Malaysia','Polish - Poland','Portuguese - Brazil',
+         'Portuguese - Portugal','Romanian - Romania','Russian - Russia','Serbian - Serbia','Slovak - Slovakia','Slovakia - Slovenia','Spanish - Argentina','Spanish - Chile','Spanish - Colombia',
+         'Spanish - Costa Rica','Spanish - Dominican Republic','Spanish - Ecuador','Spanish - Mexico',
          'Spanish - Peru','Spanish - Spain','Spanish - United States','Swahili - Kenya','Swedish - Sweden','Tagalog - Philippines','Thai - Thailand','Turkish - Turkey',
-         'Vietnamese - Vietnam','Slovakia - Slovenia','Croatian - Croatia','German - Switzerland','Slovak - Slovakia','Spanish - Costa Rica',
-         'English - Hong Kong','Serbian - Serbia','French - Switzerland','Spanish - Dominican Republic','Bulgarian - Bulgaria','Estonian - Estonia',
-         'Latvian - Latvia','Lithuanian - Lithuania')
+         'Vietnamese - Vietnam')
     )
     df = pd.read_csv('international_feasibility_data_all.csv')
     df['country_name'] = df['country_name'].replace({'United Arab Emirates (UAE)': 'United Arab Emirates'})
