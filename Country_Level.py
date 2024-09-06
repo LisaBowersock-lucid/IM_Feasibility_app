@@ -6,7 +6,7 @@ import statsmodels.formula.api as smf
 from patsy import dmatrices
 from patsy import dmatrix
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_icon=':earth_americas:')
 st.logo("logo.png")
 
 def country_level_model():
