@@ -18,10 +18,9 @@ def country_level_model():
          'English - Singapore','English - United Arab Emirates','English - United Kingdom','English - United States','Estonian - Estonia','Finnish - Finland',
          'French - Belgium','French - Canada','French - France','French - Switzerland','German - Austria','German - Germany','German - Switzerland','Greek - Greece','Hindi - India','Hungarian - Hungary',
          'Indonesian - Indonesia','Italian - Italy','Japanese - Japan','Korean - Korea','Latvian - Latvia','Lithuanian - Lithuania','Malay - Malaysia','Polish - Poland','Portuguese - Brazil',
-         'Portuguese - Portugal','Romanian - Romania','Russian - Russia','Serbian - Serbia','Slovak - Slovakia','Slovakia - Slovenia','Spanish - Argentina','Spanish - Chile','Spanish - Colombia',
-         'Spanish - Costa Rica','Spanish - Dominican Republic','Spanish - Ecuador','Spanish - Mexico',
-         'Spanish - Peru','Spanish - Spain','Spanish - United States','Swahili - Kenya','Swedish - Sweden','Tagalog - Philippines','Thai - Thailand','Turkish - Turkey',
-         'Vietnamese - Vietnam')
+         'Portuguese - Portugal','Romanian - Romania','Russian - Russia','Serbian - Serbia','Slovak - Slovakia','Spanish - Argentina','Spanish - Chile','Spanish - Colombia',
+         'Spanish - Costa Rica','Spanish - Dominican Republic','Spanish - Ecuador','Spanish - Mexico','Spanish - Peru','Spanish - Spain','Spanish - United States','Swedish - Sweden',
+         'Tagalog - Philippines','Thai - Thailand','Turkish - Turkey','Vietnamese - Vietnam')
     )
     df = pd.read_csv('international_feasibility_data_all.csv')
     df['country_name'] = df['country_name'].replace({'United Arab Emirates (UAE)': 'United Arab Emirates'})
