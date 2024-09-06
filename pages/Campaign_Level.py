@@ -13,7 +13,10 @@ st.logo("logo.png")
 def campaign_level_model():
     name = st.sidebar.selectbox(
         "Country-Language",
-        ("English - United States", "English - United Kingdom", "English - Canada")
+        ("English - United States", "English - United Kingdom", "English - Canada", "German - Germany", "Japanese - Japan", "English - Australia", 
+         "Portuguese - Brazil", "Spanish - Mexico", "French - France", "Italian - Italy", "English - India", "Arabic - Saudi Arabia", 
+         "Arabic - United Arab Emirates", "English - Philippines", "Spanish - Spain", "English - Singapore", "Thai - Thailand", "English - New Zealand", 
+         "Chinese Traditional - Hong Kong", "Indonesian - Indonesia")
     )
     channels = st.sidebar.selectbox(
         "Channels",
@@ -25,7 +28,10 @@ def campaign_level_model():
     )
     industry_name = st.sidebar.selectbox(
         "Industry",
-        ("Academia and Education", "Alcohol","Consumer Packaged Goods")
+        ('Academia and Education','Advocacy','Alcohol','Automotive','B2B','Consumer Electronics','Consumer Packaged Goods','Fashion and Beauty',
+         'Financial Services','Food and Beverage','Gambling and Betting','Health and Wellness','Healthcare and Pharmaceuticals','Home and Garden',
+         'Insurance','Internet Services','Media and Entertainment','Other','Political','Professional Services','Quick Service Restaurant',
+         'Real Estate','Retail','Telecom and Technology','Travel and Tourism')
     )
     campaign_length = st.sidebar.number_input("Campaign Length (Days)", value=60, placeholder="Type a number...")
     expected_impressions = st.sidebar.number_input("Expected Impressions", value=1000000, placeholder="Type a number...")
