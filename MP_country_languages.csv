@@ -1,0 +1,324 @@
+id,code,name,lk_countryid,lk_languageid,lk_recordstatusid,apicode
+155,IND-MY,Indonesian - Malaysia,129,26,0,ind_my
+256,FRE-CG,French - Republic of the Congo,49,4,1,fre_cg
+60,BAH-SG,Bahasa Melayu - Singapore,188,31,0,bah_sg
+251,FRE-BJ,French - Benin,23,4,1,fre_bj
+55,TGL-PH,Tagalog - Philippines,168,29,1,tgl_ph
+150,ENG-VN,English - Vietnam,230,3,1,eng_vn
+285,ENG-CZ,English - Czech Republic,56,3,1,eng_cz
+89,SPA-EC,Spanish - Ecuador,62,11,1,spa_ec
+185,TEL-IN,Telugu - India,99,69,1,tel_in
+59,ENG-ID,English - Indonesia,100,3,1,eng_id
+154,MAY-HK,Malay - Hong Kong,96,27,0,may_hk
+255,FRE-KM,French - Comoros,48,4,1,fre_km
+152,MAY-PH,Malay - Philippines,168,27,0,may_ph
+57,ENG-NZ,English - New Zealand,153,3,1,eng_nz
+253,FRE-CM,French - Cameroon,37,4,1,fre_cm
+61,ENG-MY,English - Malaysia,129,3,1,eng_my
+257,FRE-DJ,French - Djibouti,58,4,1,fre_dj
+156,IND-PH,Indonesian - Philippines,168,26,0,ind_ph
+259,FRE-GA,French - Gabon,78,4,1,fre_ga
+63,LAT-LV,Latvian - Latvia,117,33,1,lat_lv
+158,IND-HK,Indonesian - Hong Kong,96,26,0,ind_hk
+161,YUE-CN,Cantonese - China,44,52,1,yue_cn
+262,FRE-NE,French - Niger,155,4,1,fre_ne
+66,SPA-GT,Spanish - Guatemala,89,11,1,spa_gt
+157,IND-SG,Indonesian - Singapore,188,26,0,ind_sg
+258,FRE-GQ,French - Equatorial Guinea,65,4,1,fre_gq
+62,HUN-HU,Hungarian - Hungary,97,32,1,hun_hu
+159,ENG-MT,English - Malta,132,3,1,eng_mt
+64,SPA-CR,Spanish - Costa Rica,51,11,1,spa_cr
+260,FRE-GN,French - Guinea,90,4,1,fre_gn
+149,ENG-SA,English - Saudi Arabia,184,3,1,eng_sa
+54,THA-TH,Thai - Thailand,209,28,1,tha_th
+250,ENG-ZM,English - Zambia,238,3,1,eng_zm
+254,FRE-TD,French - Chad,42,4,1,fre_td
+58,ENG-PH,English - Philippines,168,3,1,eng_ph
+153,MAY-SG,Malay - Singapore,188,27,1,may_sg
+263,FRE-CI,French - Republic of the Côte d'Ivoire,52,4,1,fre_ci
+67,SPA-HN,Spanish - Honduras,95,11,1,spa_hn
+162,ENG-PL,English - Poland,170,3,1,eng_pl
+272,AFR-ZA,Afrikaans - South Africa,193,72,1,afr_za
+76,HIN-IN,Hindi - India,99,38,1,hin_in
+172,KAN-IN,Kannada - India,99,56,1,kan_in
+56,UKR-UA,Ukrainian - Ukraine,220,30,1,ukr_ua
+151,MAY-ID,Malay - Indonesia,100,27,1,may_id
+252,FRE-BF,French - Burkina Faso,34,4,1,fre_bf
+68,SPA-NI,Spanish - Nicaragua,154,11,1,spa_ni
+163,ENG-RO,English - Romania,175,3,1,eng_ro
+264,FRE-SN,French - Senegal,185,4,1,fre_sn
+82,ARA-AE,Arabic - United Arab Emirates,221,14,1,ara_ae
+178,NEP-IN,Nepali - India,99,62,1,nep_in
+278,SPA-GY,Spanish - Guyana,92,11,0,spa_gy
+74,ENG-DE,English - Germany,81,3,1,eng_de
+170,DOI-IN,Dogri - India,99,54,1,doi_in
+270,SPA-GQ,Spanish - Equatorial Guinea,65,11,1,spa_gq
+274,ENG-MM,English - Myanmar,146,3,1,eng_mm
+78,SLK-SK,Slovak - Slovakia,189,39,1,slk_sk
+174,KOK-IN,Konkani - India,99,58,1,kok_in
+277,NOB-NO,Bokmal - Norway,160,75,1,nob_no
+81,VIE-VN,Vietnamese - Vietnam,230,41,1,vie_vn
+177,MAR-IN,Marathi - India,99,61,1,mar_in
+171,GUJ-IN,Gujrati - India,99,55,1,guj_in
+75,ZUL-ZA,Zulu - South Africa,193,37,1,zul_za
+271,ENG-PT,English - Portugal,171,3,1,eng_pt
+179,ORI-IN,Odia - India,99,63,1,ori_in
+83,ARA-QA,Arabic - Qatar,173,14,1,ara_qa
+279,SIN-LK,Sinhala - Sri Lanka,196,76,1,sin_lk
+176,MNI-IN,Manipuri - India,99,60,1,mni_in
+276,KAZ-KZ,Kazakh - Kazakhstan,109,74,1,kaz_kz
+80,SPA-PE,Spanish - Peru,167,11,1,spa_pe
+248,ENG-TN,English - Tunisia,214,3,1,eng_tn
+147,ENG-FI,English - Finland,72,3,1,eng_fi
+52,IND-ID,Indonesian - Indonesia,100,26,1,ind_id
+245,ENG-SZ,English - Swaziland,202,3,1,eng_sz
+144,ENG-BE,English - Belgium,21,3,1,eng_be
+49,ENG-ZA,English - South Africa,193,3,1,eng_za
+139,ARA-PS,Arabic - Palestine,248,14,1,ara_ps
+43,ENG-IE,English - Ireland,103,3,1,eng_ie
+240,ENG-RW,English - Rwanda,177,3,1,eng_rw
+284,ENG-HR,English - Croatia,53,3,1,eng_hr
+184,TAM-IN,Tamil - India,99,68,1,tam_in
+88,NLD-BE,Flemish - Belgium,21,43,1,nld_be
+173,KAS-IN,Kashmiri - India,99,57,1,kas_in
+273,CHN-CA,Chinese Simplified - Canada,38,50,1,chn_ca
+77,ARA-EG,Arabic - Egypt,63,14,1,ara_eg
+79,SLV-SI,Slovene - Slovenia,190,40,1,slv_si
+175,MAI-IN,Maithili - India,99,59,1,mai_in
+275,BUR-MM,Burmese - Myanmar,146,73,1,bur_mm
+280,ENG-GY,English - Guyana,92,3,1,eng_gy
+180,PAN-IN,Punjabi - India,99,64,1,pan_in
+84,ENG-NG,English - Nigeria,156,3,1,eng_ng
+7,ENG-IN,English - India,99,3,1,eng_in
+201,ENG-LU,English - Luxembourg,124,3,1,eng_lu
+103,ENG-MA,English - Morocco,144,3,1,eng_ma
+299,ENG-OM,English - Oman,161,3,1,eng_om
+220,ENG-GQ,English - Equatorial Guinea,65,3,1,eng_gq
+23,SWE-SE,Swedish - Sweden,203,12,1,swe_se
+119,ENG-ES,English - Spain,195,3,1,eng_es
+315,POR-GQ,Portuguese - Equatorial Guinea,65,9,1,por_gq
+199,FRE-DZ,French - Algeria,3,4,1,fre_dz
+5,ENG-AU,English - Australia,13,3,1,eng_au
+101,ENG-DZ,English - Algeria,3,3,1,eng_dz
+297,ENG-LT,English - Lithuania,123,3,1,eng_lt
+21,SPA-MX,Spanish - Mexico,138,11,1,spa_mx
+313,ENG-HT,English - Haiti,93,3,1,eng_ht
+117,KOR-US,Korean - United States,223,13,1,kor_us
+218,ENG-CG,English - Republic of the Congo,49,3,1,eng_cg
+135,KUR-IQ,Kurdish - Iraq,102,49,1,kur_iq
+39,CZE-CZ,Czech - Czech Republic,245,19,1,cze_cz
+236,ENG-NA,English - Namibia,147,3,1,eng_na
+298,ENG-NI,English - Nicaragua,154,3,1,eng_ni
+102,ENG-LB,English - Lebanon,118,3,1,eng_lb
+200,GER-LU,German - Luxembourg,124,5,1,ger_lu
+6,ENG-CA,English - Canada,38,3,1,eng_ca
+50,ENG-SG,English - Singapore,188,3,1,eng_sg
+246,ENG-TZ,English - Tanzania,208,3,1,eng_tz
+145,ENG-CL,English - Chile,43,3,1,eng_cl
+243,ENG-SC,English - Seychelles,186,3,1,eng_sc
+142,CHI-US,Chinese Simplified - United States,223,1,1,chi_us
+47,SPA-CL,Spanish - Chile,43,11,1,spa_cl
+53,MAY-MY,Malay - Malaysia,129,27,1,may_my
+249,ENG-UG,English - Uganda,219,3,1,eng_ug
+148,ENG-NO,English - Norway,160,3,1,eng_no
+141,ARA-BH,Arabic - Bahrain,17,14,1,ara_bh
+46,BUL-BG,Bulgarian - Bulgaria,33,24,1,bul_bg
+242,ENG-SN,English - Senegal,185,3,1,eng_sn
+146,ENG-DK,English - Denmark,57,3,1,eng_dk
+51,LTZ-LU,Luxembourg - Luxembourg,124,25,1,ltz_lu
+247,ENG-TG,English - Togo,210,3,1,eng_tg
+244,ENG-SL,English - Sierra Leone,187,3,1,eng_sl
+143,JPN-US,Japanese - United States,223,7,1,jpn_us
+48,SPA-CO,Spanish - Colombia,47,11,0,spa_co
+239,ENG-CI,English - Republic of the Côte d'Ivoire,52,3,1,eng_ci
+42,ICE-IS,Icelandic - Iceland,98,21,1,ice_is
+138,ARA-OM,Arabic - Oman,161,14,1,ara_om
+118,VIE-US,Vietnamese - United States,223,41,1,vie_us
+22,SPA-ES,Spanish - Spain,195,11,1,spa_es
+314,POR-CV,Portuguese - Cape Verde,39,9,1,por_cv
+219,ENG-DJ,English - Djibouti,58,3,1,eng_dj
+29,ARA-SA,Arabic - Saudi Arabia,184,14,1,ara_sa
+226,ENG-GW,English - Guinea-Bissau,91,3,1,eng_gw
+125,ENG-PR,English - Puerto Rico,172,3,1,eng_pr
+321,FRE-RW,French - Rwanda,177,4,1,fre_rw
+124,FRE-LU,French - Luxembourg,124,4,1,fre_lu
+28,DUT-BE,Dutch - Belgium,21,2,1,dut_be
+225,ENG-GN,English - Guinea,90,3,1,eng_gn
+320,PAN-PK,Punjabi - Pakistan,162,64,1,pan_pk
+223,ENG-GM,English - Gambia,79,3,1,eng_gm
+318,FRE-MG,French - Madagascar,127,4,1,fre_mg
+26,FRE-BE,French - Belgium,21,4,1,fre_be
+122,ENG-AT,English - Austria,14,3,1,eng_at
+281,SWA-TZ,Swahili - Tanzania,208,45,1,swa_tz
+181,SAN-IN,Sanskrit - India,99,65,1,san_in
+85,HRV-HR,Croatian - Croatia,53,42,1,hrv_hr
+34,FRE-CH,French - Switzerland,204,4,1,fre_ch
+231,ENG-MW,English - Malawi,128,3,1,eng_mw
+130,ARA-TN,Arabic - Tunisia,214,14,1,ara_tn
+326,RUM-MD,Romanian - Moldova,140,23,1,rum_md
+129,ARA-MR,Arabic - Mauritania,135,14,1,ara_mr
+33,GER-CH,German - Switzerland,204,5,0,ger_ch
+325,FRE-CD,French - Democratic Republic of the Congo,249,4,1,fre_cd
+230,ENG-MG,English - Madagascar,127,3,1,eng_mg
+324,ENG-CD,English - Democratic Republic of the Congo,249,3,1,eng_cd
+32,FIN-FI,Finnish - Finland,72,17,1,fin_fi
+229,ENG-LR,English - Liberia,120,3,1,eng_lr
+128,ENG-EG,English - Egypt,63,3,1,eng_eg
+132,ARA-LY,Arabic - Libya,121,14,1,ara_ly
+233,ENG-MR,English - Mauritania,135,3,1,eng_mr
+328,RUS-UZ,Russian - Uzbekistan,226,10,1,rus_uz
+36,ENG-CH,English - Switzerland,204,3,1,eng_ch
+319,FRE-ML,French - Mali,131,4,1,fre_ml
+27,SPA-US,Spanish - United States,223,11,1,spa_us
+123,SPA-DO,Spanish - Dominican Republic,60,11,1,spa_do
+224,ENG-GH,English - Ghana,82,3,1,eng_gh
+86,RUS-KZ,Russian - Kazakhstan,109,10,1,rus_kz
+282,ENG-BG,English - Bulgaria,33,3,1,eng_bg
+182,SAT-IN,Santali - India,99,66,1,sat_in
+35,ITA-CH,Italian - Switzerland,204,6,1,ita_ch
+327,ENG-MD,English - Moldova,140,3,1,eng_md
+131,FRE-TN,French - Tunisia,214,4,1,fre_tn
+232,ENG-ML,English - Mali,131,3,1,eng_ml
+228,ENG-LS,English - Lesotho,119,3,1,eng_ls
+323,FRE-HT,French - Haiti,93,4,1,fre_ht
+127,BEN-BD,Bengali - Bangladesh,18,47,1,ben_bd
+31,DAN-DK,Danish - Denmark,57,16,1,dan_dk
+126,SPA-PR,Spanish - Puerto Rico,172,11,1,spa_pr
+322,POR-ST,Portuguese - Sao Tome And Principe,183,9,1,por_st
+227,ENG-KW,English - Kuwait,114,3,1,eng_kw
+30,NOR-NO,Norwegian - Norway,160,15,1,nor_no
+121,URD-PK,Urdu - Pakistan,162,46,1,urd_pk
+222,ENG-GA,English - Gabon,78,3,1,eng_ga
+317,POR-GW,Portuguese - Guinea-Bissau,91,9,1,por_gw
+25,FRE-CA,French - Canada,38,4,1,fre_ca
+37,TUR-TR,Turkish - Turkey,215,18,1,tur_tr
+234,ENG-MU,English - Mauritius,136,3,1,eng_mu
+329,ENG-UZ,English - Uzbekistan,226,3,1,eng_uz
+133,PER-IR,Farsi - Iran,101,48,0,per_ir
+24,KOR-KR,Korean - Korea ,113,13,1,kor_kr
+316,ARA-ER,Arabic - Eritrea,66,14,1,ara_er
+120,ENG-PK,English - Pakistan,162,3,1,eng_pk
+221,ENG-ER,English - Eritrea,66,3,1,eng_er
+104,ARA-DZ,Arabic - Algeria,3,14,1,ara_dz
+8,ENG-GB,English - United Kingdom,222,3,1,eng_gb
+300,ENG-PS,English - Palestine,248,3,1,eng_ps
+203,FRE-MA,French - Morocco,144,4,1,fre_ma
+38,GER-AT,German - Austria,14,5,1,ger_at
+134,ARA-IQ,Arabic - Iraq,102,14,1,ara_iq
+330,UZB-UZ,Uzbek - Uzbekistan,226,77,1,uzb_uz
+235,ENG-MZ,English - Mozambique,145,3,1,eng_mz
+237,ENG-NE,English - Niger,155,3,1,eng_ne
+136,ARA-KW,Arabic - Kuwait,114,14,1,ara_kw
+40,GRE-GR,Greek - Greece,84,20,1,gre_gr
+69,SPA-PA,Spanish - Panama,164,11,1,spa_pa
+164,ENG-SE,English - Sweden,203,3,1,eng_se
+265,FRE-SC,French - Seychelles,186,4,1,fre_sc
+3,CHI-TW,Chinese Traditional - Taiwan,206,1,1,chi_tw
+197,ENG-ET,English - Ethiopia,68,3,1,eng_et
+99,ENG-FR,English - France,73,3,1,eng_fr
+93,ENG-AE,English - United Arab Emirates,221,3,1,eng_ae
+189,SPA-BO,Spanish - Bolivia,26,11,1,spa_bo
+289,ENG-EE,English - Estonia,67,3,1,eng_ee
+100,ENG-RU,English - Russia,176,3,1,eng_ru
+296,ENG-LY,English - Libyan Arab Jamahiriya,121,3,1,eng_ly
+4,DUT-NL,Dutch - Netherlands,150,2,1,dut_nl
+198,AMH-ET,Amharic - Ethiopia,68,70,1,amh_et
+70,EST-EE,Estonian - Estonia,67,34,1,est_ee
+165,ENG-TH,English - Thailand,209,3,1,eng_th
+266,FRE-TG,French - Togo,210,4,1,fre_tg
+71,LIT-LT,Lithuanian - Lithuania,123,35,1,lit_lt
+167,ENG-HU,English - Hungary,97,3,1,eng_hu
+267,POR-AO,Portuguese - Angola,6,9,1,por_ao
+1,CHI-CN,Chinese Simplified - China,44,50,1,chi_cn
+294,ENG-JO,English - Jordan,108,3,1,eng_jo
+196,SPA-UY,Spanish - Uruguay,225,11,1,spa_uy
+95,ENG-NL,English - Netherlands,150,3,1,eng_nl
+291,ENG-HN,English - Honduras,95,3,1,eng_hn
+192,SPA-HT,Spanish - Haiti,93,11,0,spa_ht
+190,SPA-CU,Spanish - Cuba,54,11,0,spa_cu
+290,ENG-GT,English - Guatemala,89,3,1,eng_gt
+94,GER-BE,German - Belgium,21,5,1,ger_be
+193,ENG-JM,English - Jamaica,106,3,1,eng_jm
+96,SWA-KE,Swahili - Kenya,110,45,1,swa_ke
+292,ENG-IS,English - Iceland,98,3,1,eng_is
+98,ENG-CN,English - China,44,3,1,eng_cn
+295,ENG-LV,English - Latvia,117,3,1,eng_lv
+2,CHI-HK,Chinese Traditional - Hong Kong,96,1,1,chi_hk
+92,SRP-RS,Serbian - Serbia,247,44,1,srp_rs
+188,ENG-BZ,English - Belize,22,3,1,eng_bz
+288,ENG-SV,English - El Salvador,64,3,1,eng_sv
+293,ENG-IQ,English - Iraq,102,3,1,eng_iq
+194,SPA-PY,Spanish - Paraguay,166,11,1,spa_py
+97,ENG-KE,English - Kenya,110,3,1,eng_ke
+90,CHI-SG,Chinese Simplified - Singapore,188,50,1,chi_sg
+286,ENG-DO,English - Dominican Republic,60,3,1,eng_do
+186,URD-IN,Urdu - India,99,46,1,urd_in
+91,CHI-MY,Chinese Simplified - Malaysia,129,50,1,chi_my
+187,ENG-BS,English - Bahamas,16,3,1,eng_bs
+287,ENG-EC,English - Ecuador,62,3,1,eng_ec
+65,SPA-SV,Spanish - El Salvador,64,11,1,spa_sv
+261,FRE-MU,French - Mauritius,136,4,1,fre_mu
+160,MLT-MT,Maltese - Malta,132,51,1,mlt_mt
+45,RUM-RO,Romanian - Romania,175,23,1,rum_ro
+241,ENG-ST,English - São Tomé and Príncipe,183,3,1,eng_st
+140,ARA-SY,Arabic - Syria,205,14,0,ara_sy
+238,ENG-QA,English - Qatar,173,3,1,eng_qa
+137,ARA-YE,Arabic - Yemen,235,14,1,ara_ye
+41,SPA-VE,Spanish - Venezuela,229,11,1,spa_ve
+183,SND-IN,Sindhi - India,99,67,1,snd_in
+87,ARA-JO,Arabic - Jordan,108,14,1,ara_jo
+283,ENG-CR,English - Costa Rica,51,3,1,eng_cr
+305,ENG-SK,English - Slovakia (Slovak Republic),189,3,1,eng_sk
+13,ITA-IT,Italian - Italy,105,6,1,ita_it
+109,ENG-CO,English - Colombia,47,3,1,eng_co
+210,ENG-AO,English - Angola,6,3,1,eng_ao
+310,ENG-UY,English - Uruguay,225,3,1,eng_uy
+18,RUS-RU,Russian - Russia,176,10,1,rus_ru
+215,ENG-CV,English - Cape Verde,39,3,1,eng_cv
+114,ENG-KR,English - Korea,113,3,1,eng_kr
+207,ARA-DJ,Arabic - Djibouti,58,14,1,ara_dj
+12,GER-CH,German - Switzerland,204,5,1,ger_ch
+304,ENG-RS,English - Serbia,247,3,1,eng_rs
+108,ENG-BR,English - Brazil,30,3,1,eng_br
+212,ENG-BW,English - Botswana,28,3,1,eng_bw
+307,ENG-LK,English - Sri Lanka,196,3,1,eng_lk
+15,POL-PL,Polish - Poland,170,8,1,pol_pl
+111,ENG-IL,English - Israel,104,3,1,eng_il
+204,ARA-US,Arabic - United States,223,14,1,ara_us
+105,ARA-LB,Arabic - Lebanon,118,14,1,ara_lb
+9,ENG-US,English - United States,223,3,1,eng_us
+301,ENG-PA,English - Panama,164,3,1,eng_pa
+214,ENG-CM,English - Cameroon,37,3,1,eng_cm
+309,ENG-UA,English - Ukraine,220,3,1,eng_ua
+113,ENG-JP,English - Japan,107,3,1,eng_jp
+17,POR-PT,Portuguese - Portugal,171,9,1,por_pt
+115,ENG-MX,English - Mexico,138,3,1,eng_mx
+311,ENG-VE,English - Venezuela,229,3,1,eng_ve
+216,ENG-TD,English - Chad,42,3,1,eng_td
+19,SPA-AR,Spanish - Argentina,10,11,1,spa_ar
+217,ENG-KM,English - Comoros,48,3,1,eng_km
+312,ENG-YE,English - Yemen,235,3,1,eng_ye
+20,SPA-CO,Spanish - Colombia,47,11,1,spa_co
+116,ENG-TR,English - Turkey,215,3,1,eng_tr
+168,ASM-IN,Assamese - India,99,53,1,asm_in
+268,POR-MZ,Portuguese - Mozambique,145,9,1,por_mz
+72,HEB-IL,Hebrew - Israel,104,36,1,heb_il
+269,SOT-LS,Sesotho - Lesotho,119,71,1,sot_ls
+73,ENG-HK,English - Hong Kong,96,3,1,eng_hk
+169,BEN-IN,Bengali - India,99,47,1,ben_in
+107,ENG-AR,English - Argentina,10,3,1,eng_ar
+206,ARA-KM,Arabic - Comoros,48,14,1,ara_km
+303,ENG-PE,English - Peru,167,3,1,eng_pe
+11,GER-DE,German - Germany,81,5,1,ger_de
+308,ENG-TW,English - Taiwan Province Of China,206,3,1,eng_tw
+112,ENG-IT,English - Italy,105,3,1,eng_it
+16,POR-BR,Portuguese - Brazil,30,9,1,por_br
+213,ENG-BF,English - Burkina Faso,34,3,1,eng_bf
+10,FRE-FR,French - France,73,4,1,fre_fr
+302,ENG-PY,English - Paraguay,166,3,1,eng_py
+205,ARA-TD,Arabic - Chad,42,14,1,ara_td
+106,ARA-MA,Arabic - Morocco,144,14,1,ara_ma
+110,ENG-GR,English - Greece,84,3,1,eng_gr
+211,ENG-BJ,English - Benin,23,3,1,eng_bj
+14,JPN-JP,Japanese - Japan,107,7,1,jpn_jp
+306,ENG-SI,English - Slovenia,190,3,1,eng_si

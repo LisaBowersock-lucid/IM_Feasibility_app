@@ -1,0 +1,216 @@
+country_name,Subregion,Region,Internet users,%,Population (2021),Year
+China,Eastern Asia,Asia,"1,102,140,000",77.30%,"1,425,893,465",2022
+India,Southern Asia,Asia,"881,250,000",62.60%,"1,407,563,842",2024
+United States,Northern America,Americas,"311,300,000",92.40%,"336,997,624",2023
+Indonesia,South-eastern Asia,Asia,"215,626,156",78.80%,"273,753,191",2023
+Pakistan,Southern Asia,Asia,"170,000,000",70.80%,"240,000,000",2022
+Brazil,South America,Americas,"165,300,000",77.10%,"214,326,223",2022
+Nigeria,Western Africa,Africa,"136,203,231",63.80%,"213,401,323",2020
+Russia,Eastern Europe,Europe,"129,800,000",89.50%,"145,102,755",2022
+Bangladesh,Southern Asia,Asia,"126,210,000",75.90%,"166,303,498",2022
+Japan,Eastern Asia,Asia,"117,400,000",94.20%,"124,612,530",2021
+Mexico,Northern America,Americas,"96,800,000",75.10%,"128,972,439",2023
+Egypt,Northern Africa,Africa,"80,750,000",73.90%,"109,262,178",2023
+Iran,Western Asia,Asia,"78,086,663",88.80%,"87,923,432",2022
+Germany,Western Europe,Europe,"77,794,405",93.30%,"83,408,554",2021
+Turkey,Southern Europe,Europe,"74,278,491",87.60%,"84,775,404",2023
+Philippines,South-eastern Asia,Asia,"73,003,313",64.10%,"113,880,328",2021
+Vietnam,South-eastern Asia,Asia,"68,172,134",69.90%,"97,468,029",2021
+United Kingdom,Northern Europe,Europe,"65,001,016",96.60%,"67,281,039",2021
+France,Western Europe,Europe,"59,470,000",92.20%,"64,531,444",2021
+Korea,Eastern Asia,Asia,"49,421,084",95.40%,"51,830,139",2021
+Spain,Southern Europe,Europe,"42,400,756",89.30%,"47,486,935",2021
+Thailand,South-eastern Asia,Asia,"54,043,108",75.50%,"71,601,103",2020
+Italy,Southern Europe,Europe,"50,540,000",85.30%,"59,240,329",2021
+Saudi Arabia,Western Asia,Asia,"34,840,000",96.90%,"35,950,396",2022
+Poland,Eastern Europe,Europe,"35,741,108",93.30%,"38,307,726",2023
+Canada,Northern America,Americas,"33,950,632",89.00%,"38,155,012",2021
+Argentina,South America,Americas,"40,024,673",88.40%,"45,276,780",2022
+Tanzania,Eastern Africa,Africa,"33,090,000",52.00%,"63,588,334",2023
+South Africa,Southern Africa,Africa,"31,858,027",53.60%,"59,392,255",2021
+Colombia,South America,Americas,"39,340,000",76.40%,"51,516,562",2023
+Malaysia,South-eastern Asia,Asia,"25,343,685",75.50%,"33,573,874",2021
+Ukraine,Eastern Europe,Europe,"28,570,000",65.60%,"43,531,422",2023
+Algeria,Northern Africa,Africa,"26,350,000",59.60%,"44,177,969",2021
+Myanmar,South-eastern Asia,Asia,"23,650,000",44.00%,"53,798,084",2021
+Morocco,Northern Africa,Africa,"22,072,765",59.50%,"37,076,584",2021
+Taiwan,Eastern Asia,Asia,"21,920,626",91.90%,"23,859,912",2021
+Australia,"Australia, New Zealand",Oceania,"25,309,515",97.60%,"25,921,089",2023
+Venezuela,South America,Americas,"20,564,451",72.90%,"28,199,867",2021
+Ethiopia,Eastern Africa,Africa,"36,400,000",30.30%,"120,283,026",2021
+Iraq,Western Asia,Asia,"18,892,351",43.40%,"43,533,592",2021
+Uzbekistan,Central Asia,Asia,"16,692,456",49.00%,"34,081,449",2021
+Nepal,Southern Asia,Asia,"16,190,000",53.90%,"30,034,989",2021
+Netherlands,Western Europe,Europe,"15,877,494",90.70%,"17,501,696",2021
+Peru,South America,Americas,"15,674,241",46.50%,"33,715,471",2021
+Chile,South America,Americas,"14,864,456",76.30%,"19,493,184",2021
+Kazakhstan,Central Asia,Asia,"13,913,699",72.50%,"19,196,465",2021
+Romania,Eastern Europe,Europe,"12,545,558",64.90%,"19,328,560",2021
+Sudan,Northern Africa,Africa,"12,512,639",27.40%,"45,657,202",2021
+Ghana,Western Africa,Africa,"15,065,541",45.90%,"32,833,031",2021
+Côte d'Ivoire,Western Africa,Africa,"10,650,818",38.80%,"27,478,249",2021
+Uganda,Eastern Africa,Africa,"10,162,807",22.20%,"45,853,778",2021
+Belgium,Western Europe,Europe,"10,021,242",86.30%,"11,611,419",2021
+Sweden,Northern Europe,Europe,"10,008,638",95.60%,"10,467,097",2023
+Ecuador,South America,Americas,"9,521,056",53.50%,"17,797,737",2021
+United Arab Emirates,Western Asia,Asia,"8,913,217",95.20%,"9,365,145",2021
+Kenya,Eastern Africa,Africa,"8,861,485",16.70%,"53,005,614",2021
+Czech Republic,Eastern Europe,Europe,"8,358,728",79.50%,"10,510,751",2021
+Switzerland,Western Europe,Europe,"7,942,864",91.40%,"8,691,406",2021
+Greece,Southern Europe,Europe,"7,923,438",75.90%,"10,445,365",2021
+Azerbaijan,Western Asia,Asia,"7,763,795",75.30%,"10,312,992",2021
+Austria,Western Europe,Europe,"7,681,957",86.10%,"8,922,082",2021
+Portugal,Southern Europe,Europe,"8,733,222",84.90%,"10,290,103",2023
+Yemen,Western Asia,Asia,"7,548,512",22.90%,"32,981,641",2021
+Hungary,Eastern Europe,Europe,"7,461,297",76.80%,"9,709,786",2021
+Sri Lanka,Southern Asia,Asia,"7,121,116",32.70%,"21,773,441",2021
+Belarus,Eastern Europe,Europe,"7,048,231",73.60%,"9,578,167",2021
+Democratic Republic of the Congo,Middle Africa,Africa,"28,310,000",29.50%,"95,894,118",2024
+Dominican Republic,Caribbean,Americas,"6,997,472",62.90%,"11,117,873",2021
+Guatemala,Central America,Americas,"11,750,000",66.70%,"17,608,483",2021
+Israel,Western Asia,Asia,"6,788,737",76.30%,"8,900,059",2021
+Hong Kong,Eastern Asia,Asia,"6,970,000",93.00%,"7,494,578",2023
+Jordan,Western Asia,Asia,"6,480,202",58.10%,"11,148,278",2021
+Tunisia,Northern Africa,Africa,"7,920,000",64.60%,"12,262,946",2021
+Syria,Western Asia,Asia,"6,257,430",29.30%,"21,324,367",2021
+Serbia,Southern Europe,Europe,"6,182,411",84.70%,"7,296,769",2021
+Mozambique,Eastern Africa,Africa,"6,162,217",19.20%,"32,077,072",2021
+Cuba,Caribbean,Americas,"5,638,956",50.10%,"11,256,372",2021
+Cameroon,Middle Africa,Africa,"5,580,465",20.50%,"27,198,628",2021
+Denmark,Northern Europe,Europe,"5,407,278",92.40%,"5,854,240",2021
+Cambodia,South-eastern Asia,Asia,"5,441,827",32.80%,"16,589,023",2021
+Norway,Northern Europe,Europe,"5,120,225",94.80%,"5,403,021",2021
+Bolivia,South America,Americas,"4,843,916",40.10%,"12,079,472",2021
+Finland,Northern Europe,Europe,"5,410,000",97.70%,"5,535,992",2023
+Singapore,South-eastern Asia,Asia,"4,821,119",81.10%,"5,941,060",2021
+Zambia,Eastern Africa,Africa,"4,760,715",24.40%,"19,473,125",2021
+Lebanon,Western Asia,Asia,"4,755,187",85.00%,"5,592,631",2021
+Senegal,Western Africa,Africa,"4,698,108",27.80%,"16,876,720",2021
+Bulgaria,Eastern Europe,Europe,"4,492,326",65.20%,"6,885,868",2021
+Zimbabwe,Eastern Africa,Africa,"4,472,992",28.00%,"15,993,524",2021
+Slovakia,Eastern Europe,Europe,"4,446,926",81.60%,"5,447,622",2021
+New Zealand,"Australia, New Zealand",Oceania,"4,999,353",97.50%,"5,129,727",2023
+Angola,Middle Africa,Africa,"4,271,053",12.40%,"34,503,774",2021
+Paraguay,South America,Americas,"4,160,340",62.10%,"6,703,799",2021
+Afghanistan,Southern Asia,Asia,"4,068,194",10.10%,"40,099,462",2021
+Kuwait,Western Asia,Asia,"4,053,797",95.40%,"4,250,114",2021
+Ireland,Northern Europe,Europe,"4,024,552",80.70%,"4,986,526",2021
+Oman,Western Asia,Asia,"3,717,818",82.20%,"4,520,471",2021
+Costa Rica,Central America,Americas,"3,511,549",68.10%,"5,153,957",2021
+Palestine,Western Asia,Asia,"3,208,312",62.50%,"5,133,392",2021
+Moldova,Eastern Europe,Europe,"2,138,783",69.90%,"3,061,506",2023
+Burkina Faso,Western Africa,Africa,"3,047,909",13.80%,"22,100,683",2021
+Honduras,Central America,Americas,"2,977,793",29.00%,"10,278,345",2021
+Croatia,Southern Europe,Europe,"2,811,056",69.20%,"4,060,135",2021
+Puerto Rico (U.S.),Caribbean,Americas,"2,664,928",81.80%,"3,256,028",2021
+Rwanda,Eastern Africa,Africa,"2,657,770",19.70%,"13,461,888",2021
+Malawi,Eastern Africa,Africa,"2,566,126",12.90%,"19,889,742",2021
+Qatar,Western Asia,Asia,"2,532,059",94.20%,"2,688,235",2021
+Madagascar,Eastern Africa,Africa,"2,505,948",8.70%,"28,915,653",2021
+Bosnia and Herzegovina,Southern Europe,Europe,"2,320,000",70.90%,"3,270,943",2021
+Panama,Central America,Americas,"2,371,852",54.50%,"4,351,267",2021
+Georgia,Western Asia,Asia,"3,446,533",91.70%,"3,757,980",2021
+Uruguay,South America,Americas,"2,910,000",84.90%,"3,426,260",2022
+Mali,Western Africa,Africa,"2,358,540",10.80%,"21,904,983",2021
+Kyrgyzstan,Central Asia,Asia,"2,309,235",35.40%,"6,527,743",2021
+Lithuania,Northern Europe,Europe,"2,243,448",80.50%,"2,786,651",2021
+Niger,Western Africa,Africa,"2,194,985",8.70%,"25,252,722",2021
+Albania,Southern Europe,Europe,"2,105,339",73.70%,"2,854,710",2021
+Armenia,Western Asia,Asia,"2,043,110",73.20%,"2,790,974",2021
+El Salvador,Central America,Americas,"1,993,079",31.60%,"6,314,167",2021
+Tajikistan,Central Asia,Asia,"1,959,127",20.10%,"9,750,064",2021
+Laos,South-eastern Asia,Asia,"1,749,517",23.60%,"7,425,057",2021
+Nicaragua,Central America,Americas,"1,732,218",25.30%,"6,850,540",2021
+Slovenia,Southern Europe,Europe,"1,640,893",77.40%,"2,119,410",2021
+North Macedonia,Southern Europe,Europe,"1,589,659",75.60%,"2,103,330",2021
+Latvia,Northern Europe,Europe,"1,585,471",84.60%,"1,873,919",2021
+Benin,Western Africa,Africa,"1,578,008",12.10%,"12,996,895",2021
+Guinea,Western Africa,Africa,"1,449,758",10.70%,"13,531,906",2021
+Bahrain,Western Asia,Asia,"1,431,090",97.80%,"1,463,265",2021
+Jamaica,Caribbean,Americas,"1,409,888",49.90%,"2,827,695",2021
+Libya,Northern Africa,Africa,"1,387,116",20.60%,"6,735,277",2021
+Haiti,Caribbean,Americas,"1,353,986",11.80%,"11,447,569",2021
+Turkmenistan,Central Asia,Asia,"1,223,591",19.30%,"6,341,855",2021
+Estonia,Northern Europe,Europe,"1,211,112",91.20%,"1,328,701",2021
+Trinidad and Tobago,Caribbean,Americas,"1,058,744",69.40%,"1,525,663",2021
+Gabon,Middle Africa,Africa,"1,040,000",44.40%,"2,341,179",2021
+South Sudan,Eastern Africa,Africa,"1,003,542",9.30%,"10,748,272",2021
+Sierra Leone,Western Africa,Africa,"1,000,575",11.90%,"8,420,641",2021
+Chad,Middle Africa,Africa,"968,500",5.60%,"17,179,740",2021
+Togo,Western Africa,Africa,"963,795",11.10%,"8,644,829",2021
+Cyprus,Western Asia,Asia,"952,369",76.50%,"1,244,188",2021
+Botswana,Southern Africa,Africa,"948,977",36.70%,"2,588,423",2021
+Namibia,Southern Africa,Africa,"933,450",36.90%,"2,530,151",2021
+Papua New Guinea,Melanesia,Oceania,"924,955",9.30%,"9,949,437",2021
+Mauritania,Western Africa,Africa,"919,398",19.90%,"4,614,974",2021
+Mongolia,Eastern Asia,Asia,"729,236",21.80%,"3,347,782",2021
+Mauritius,Eastern Africa,Africa,"702,911",54.10%,"1,298,915",2021
+Lesotho,Southern Africa,Africa,"665,312",29.20%,"2,281,454",2021
+Burundi,Eastern Africa,Africa,"607,311",4.80%,"12,551,213",2021
+Luxembourg,Western Europe,Europe,"570,794",89.30%,"639,321",2021
+Djibouti,Eastern Africa,Africa,"532,849",48.20%,"1,105,557",2021
+"Macau, China",Eastern Asia,Asia,"619,200",90.20%,"686,607",2023
+Congo,Middle Africa,Africa,"455,055",7.80%,"5,835,806",2021
+Fiji,Melanesia,Oceania,"452,479",48.90%,"924,610",2021
+Montenegro,Southern Europe,Europe,"505,055",80.40%,"627,859",2021
+Gambia,Western Africa,Africa,"416,753",15.80%,"2,639,916",2021
+Eswatini,Southern Africa,Africa,"414,278",34.70%,"1,192,271",2021
+Brunei,South-eastern Asia,Asia,"406,705",91.30%,"445,373",2021
+Bhutan,Southern Asia,Asia,"388,541",50.00%,"777,486",2021
+Liberia,Western Africa,Africa,"377,607",7.30%,"5,193,416",2021
+East Timor,South-eastern Asia,Asia,"356,356",27.00%,"1,320,942",2021
+Malta,Southern Europe,Europe,"344,970",65.50%,"526,748",2021
+Bahamas,Caribbean,Americas,"336,057",82.40%,"407,906",2021
+Equatorial Guinea,Middle Africa,Africa,"332,642",20.40%,"1,634,466",2021
+Iceland,Northern Europe,Europe,"369,996",99.90%,"370,335",2023
+Cabo Verde,Western Africa,Africa,"312,315",53.10%,"587,925",2021
+Somalia,Eastern Africa,Africa,"294,851",1.70%,"17,065,581",2021
+Guyana,South America,Americas,"290,375",36.10%,"804,567",2021
+Suriname,South America,Americas,"275,785",45.00%,"612,985",2021
+Maldives,Southern Asia,Asia,"275,717",52.90%,"521,457",2021
+Barbados,Caribbean,Americas,"233,604",83.10%,"281,200",2021
+New Caledonia,Melanesia,Oceania,"226,557",78.70%,"287,800",2021
+French Polynesia,Polynesia,Oceania,"205,746",67.70%,"304,032",2021
+Central African Republic,Middle Africa,Africa,"202,204",3.70%,"5,457,154",2021
+Belize,Central America,Americas,"176,400",44.10%,"400,031",2021
+Guam,Micronesia,Oceania,"132,221",77.50%,"170,534",2021
+Aruba (Netherlands),Caribbean,Americas,"102,285",96.00%,"106,537",2021
+Saint Lucia,Caribbean,Americas,"90,889",50.60%,"179,651",2021
+Antigua and Barbuda,Caribbean,Americas,"77,529",83.20%,"93,219",2021
+Andorra,Southern Europe,Europe,"76,095",96.30%,"79,034",2021
+Guinea-Bissau,Western Africa,Africa,"73,148",3.50%,"2,060,721",2021
+Solomon Islands,Melanesia,Oceania,"72,872",10.30%,"707,851",2021
+Saint Vincent and the Grenadines,Caribbean,Americas,"72,048",69.10%,"104,332",2021
+Vanuatu,Melanesia,Oceania,"71,050",22.30%,"319,137",2021
+Comoros,Eastern Africa,Africa,"69,020",8.40%,"821,625",2021
+U.S. Virgin Islands,Caribbean,Americas,"67,535",67.50%,"100,091",2021
+Eritrea,Eastern Africa,Africa,"66,402",1.80%,"3,620,312",2021
+Samoa,Polynesia,Oceania,"66,023",30.20%,"218,764",2021
+Grenada,Caribbean,Americas,"63,692",51.10%,"124,610",2021
+São Tomé and Príncipe,Middle Africa,Africa,"61,155",27.40%,"223,107",2021
+Bermuda,Northern America,Americas,"60,349",94.00%,"64,185",2021
+Seychelles,Eastern Africa,Africa,"55,677",52.30%,"106,471",2021
+Dominica,Caribbean,Americas,"51,467",71.10%,"72,412",2021
+Cayman Islands,Caribbean,Americas,"49,906",73.20%,"68,136",2021
+Faroe Islands,Northern Europe,Europe,"48,097",90.90%,"52,889",2021
+Saint Kitts and Nevis,Caribbean,Americas,"44,669",93.80%,"47,606",2021
+Tonga,Polynesia,Oceania,"44,558",42.00%,"106,017",2021
+Greenland,Northern America,Americas,"39,242",69.80%,"56,243",2021
+Jersey,Northern Europe,Europe,"38,958",35.50%,"109,618",2021
+Monaco,Western Europe,Europe,"37,553",102.40%,"36,686",2021
+Micronesia,Micronesia,Oceania,"37,257",7.00%,"534,606",2021
+Liechtenstein,Western Europe,Europe,"37,201",95.30%,"39,039",2021
+Gibraltar,Southern Europe,Europe,"32,494",99.50%,"32,669",2021
+Marshall Islands,Micronesia,Oceania,"20,560",48.90%,"42,050",2021
+San Marino,Southern Europe,Europe,"20,100",59.60%,"33,745",2021
+Palau,Micronesia,Oceania,"6,752",37.50%,"18,024",2021
+Kiribati,Micronesia,Oceania,"16,971",13.20%,"128,874",2021
+British Virgin Islands,Caribbean,Americas,"14,456",46.40%,"31,122",2021
+Anguilla,Caribbean,Americas,"12,043",76.40%,"15,753",2021
+Nauru,Micronesia,Oceania,"6,475",51.80%,"12,511",2021
+Tuvalu,Polynesia,Oceania,"5,520",49.30%,"11,204",2021
+"Saint Helena, Ascension and Tristan da Cunha",Western Africa,Africa,"2,906",53.80%,"5,404",2021
+Falkland Islands,South America,Americas,"2,881",76.50%,"3,764",2021
+Montserrat,Caribbean,Americas,"2,833",64.10%,"4,417",2021
+Wallis and Futuna,Polynesia,Oceania,"1,383",11.90%,"11,627",2021
+Niue,Polynesia,Oceania,"1,034",53.40%,"1,937",2021
