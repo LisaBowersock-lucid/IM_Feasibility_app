@@ -122,7 +122,7 @@ def campaign_level_model():
     
     
     st.title("IM Feasibility Calculator: by Campaign")
-    st.write("This dashboards displays the predictions of the campaign-level IM feasibility model")
+    st.write("This dashboards displays the predictions of the campaign-level IM feasibility model for campaigns run in currently-supported countries. The model uses impressions count, campaign length, industry, included channels, IP matching enablement, and country-language to predict impressions per exposed complete or total completes for a future campaign. The model is trained using historical campaign data.")
 
     st.write("#### Predicted Impressions per Exposed Complete")
     st.dataframe(final_impressions, hide_index=True)
